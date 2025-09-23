@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "Krushang Mehta | Web Developer",
+    "description": "Portfolio website showcasing web projects and skills"
+  },
+  "personal": {
+    "name": "Krushang Mehta",
+    "title": "Web Developer",
+    "location": "Rajkot, Gujrat",
+    "avatar": "/confident-professional.jpeg",
+    "email": "mehtakrushang20@gmail.com",
+    "phone": "+91 7016800908",
+    "workingHours": "Monday - Friday, 9am - 5pm PST",
+    "availableForWork": true,
+    "badges": [
+      "Frontend",
+      "Backend",
+      "Fullstack"
+    ],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "#",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "#",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "#",
+        "icon": "Twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "#",
+        "icon": "Instagram"
+      }
+    ]
+  },
+  "about": {
+    "bio": "I’m a web developer passionate about creating user-centered digital experiences that solve real problems. As a student, I focus on accessibility, ethical design, and continuously learning modern technologies to build impactful solutions",
+    "focus": [
+      "Creating intuitive and accessible digital products",
+      "Learning and applying modern web development frameworks",
+      "Exploring UI/UX principles to design user-centered solutions"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "",
+        "level": 100,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Spanish",
+        "proficiency": "Fluent",
+        "level": 80,
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "French",
+        "proficiency": "Intermediate",
+        "level": 60,
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "German",
+        "proficiency": "Basic",
+        "level": 30,
+        "flag": "🇩🇪"
+      }
+    ],
+    "interests": [
+      "Frontend Development",
+      "Backend Development",
+      "Fullstack Development",
+      "Web Design",
+      "Photography"
+    ]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Work",
+      "href": "#work"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+    "title": "Full-Stack Developer",
+    "company": "SheetIQ – Excel Analytics Platform",
+    "period": "2025",
+    "description": "Built a full-stack analytics platform that allows users to upload Excel files, analyze data, and generate interactive 2D/3D charts. Integrated authentication, dashboards, and optional AI-powered insights.",
+    "achievements": [
+      "Implemented Excel file parsing with SheetJS and dynamic data mapping",
+      "Developed 2D/3D charts using Chart.js and Three.js with real-time updates",
+      "Created user/admin dashboards with authentication and history tracking",
+      "Integrated AI APIs for data insights and chart summaries"
+    ],
+    "technologies": [
+      "Next.js 15",
+      "TypeScript",
+      "Tailwind CSS",
+      "Redux Toolkit",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Chart.js",
+      "Three.js",
+      "JWT"
+    ]
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Comfort~Trip (Car Rental System)",
+    "period": "2024",
+    "description": "Developed a full-stack car rental web application providing users with easy booking, multiple vehicle options, and integrated online payment solutions. Built with Next.js, Node.js, MongoDB, and Tailwind CSS, the platform enables seamless airport assistance, booking confirmations, and secure transactions.",
+    "achievements": [
+      "Implemented a car booking system with real-time availability and pricing (₹12/km – ₹30/km depending on vehicle)",
+      "Integrated Stripe for secure online payments and NodeMailer for booking confirmation emails",
+      "Added map integration to enhance pickup/drop location selection",
+      "Developed responsive UI using Tailwind CSS, ensuring a smooth booking experience across devices",
+      "Built admin-side features to manage vehicles, bookings, and customer queries"
+    ],
+    "technologies": [
+      "Next.js",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "Formik",
+      "Stripe API",
+      "NodeMailer",
+      "Map Integration"
+    ]
+  },
+  {
+    "title": "Front-End Developer",
+    "company": "University Management System (UMS)",
+    "period": "2025",
+    "description": "Designed and developed a role-based web platform for students, parents, teachers, and administrators to manage academics, events, attendance, and real-time tracking.",
+    "achievements": [
+      "Implemented secure role-based authentication with JWT",
+      "Developed dashboards for students, parents, teachers, and admins",
+      "Integrated real-time bus tracking with Google Maps API",
+      "Created academic and attendance analytics with Recharts"
+    ],
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Prisma ORM",
+      "PostgreSQL",
+      "Recharts",
+      "JWT",
+      "Google Maps API"
+    ]
+  }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Certified UX Professional",
+        "issuer": "Nielsen Norman Group",
+        "date": "2022",
+        "logo": "/nng-logo.png"
+      },
+      {
+        "name": "Professional Product Designer",
+        "issuer": "Interaction Design Foundation",
+        "date": "2021",
+        "logo": "/generic-military-logo.png"
+      },
+      {
+        "name": "Design Leadership Certification",
+        "issuer": "IDEO",
+        "date": "2020",
+        "logo": "/ideo-logo.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Computer Science and Engineering",
+        "institution": "Atmiya University - Rajkot",
+        "year": "2022-2026",
+        "logo": "/atmiya-Logo.png"
+      },
+      {
+        "degree": "Higher Secondary Certificate (HSC)",
+        "institution": "OSEM School - Morbi",
+        "year": "2022",
+        "logo": "/osem-Logo.png"
+      },
+      {
+        "degree": "Secondary School Certificate (SSC)",
+        "institution": "Nilkanth School - Morbi",
+        "year": "2020",
+        "logo": "/nilkanth-Logo.png"
+      }
+    ],
+    "skills": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "Express.js",
+      "TypeScript",
+      "JavaScript",
+      "Tailwind CSS",
+      "SCSS",
+      "HTML5/CSS3",
+      "Java",
+      "Figma",
+      "MongoDB",
+      "PostgreSQL",
+      "Prisma",
+      "Git - Github"
+    ]
+  },
+  "technicalSkills": {
+    "design": [
+      "Figma",
+      "Sketch",
+      "Adobe XD",
+      "Illustrator",
+      "Photoshop",
+      "InVision",
+      "Principle",
+      "Framer"
+    ],
+    "development": [
+      "HTML/CSS",
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "SCSS",
+      "Git",
+      "Responsive Design"
+    ],
+    "uxMethods": [
+      "User Research",
+      "Usability Testing",
+      "Wireframing",
+      "Prototyping",
+      "Information Architecture",
+      "User Flows"
+    ],
+    "softSkills": [
+      "Team Leadership",
+      "Project Management",
+      "Client Communication",
+      "Mentoring",
+      "Presentations"
+    ]
+  }
+}
