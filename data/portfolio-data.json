@@ -1,13 +1,13 @@
 {
   "meta": {
-    "title": "Krushang Mehta | Web Developer",
+    "title": "Krushang Mehta | Portfolio",
     "description": "Portfolio website showcasing web projects and skills"
   },
   "personal": {
     "name": "Krushang Mehta",
     "title": "Web Developer",
     "location": "Rajkot, Gujrat",
-    "avatar": "/confident-professional.jpeg",
+    "avatar": "/profile.jpeg",
     "email": "mehtakrushang20@gmail.com",
     "phone": "+91 7016800908",
     "workingHours": "Monday - Friday, 9am - 5pm PST",
@@ -50,27 +50,21 @@
     "languages": [
       {
         "name": "English",
-        "proficiency": "",
-        "level": 100,
+        "proficiency": "Communicative",
+        "level": 80,
         "flag": "🇺🇸"
       },
       {
-        "name": "Spanish",
-        "proficiency": "Fluent",
-        "level": 80,
+        "name": "Hindi",
+        "proficiency": "Native",
+        "level": 90,
         "flag": "🇪🇸"
       },
       {
-        "name": "French",
-        "proficiency": "Intermediate",
-        "level": 60,
+        "name": "Gujrati",
+        "proficiency": "Fluent",
+        "level": 100,
         "flag": "🇫🇷"
-      },
-      {
-        "name": "German",
-        "proficiency": "Basic",
-        "level": 30,
-        "flag": "🇩🇪"
       }
     ],
     "interests": [
@@ -177,22 +171,22 @@
   "credentials": {
     "certifications": [
       {
-        "name": "Certified UX Professional",
-        "issuer": "Nielsen Norman Group",
-        "date": "2022",
-        "logo": "/nng-logo.png"
+        "name": "Certified MERN Stack Developer",
+        "issuer": "BrainyBeam Info-tech pvt. Ltd.",
+        "date": "2025",
+        "logo": "/brainy.png"
       },
       {
-        "name": "Professional Product Designer",
-        "issuer": "Interaction Design Foundation",
-        "date": "2021",
-        "logo": "/generic-military-logo.png"
+        "name": "IBM FEWD Professional Certificate",
+        "issuer": "IBM - International Business Machines Corporation",
+        "date": "2025",
+        "logo": "/IBM.png"
       },
       {
-        "name": "Design Leadership Certification",
-        "issuer": "IDEO",
-        "date": "2020",
-        "logo": "/ideo-logo.png"
+        "name": "Web Development Bootcamp",
+        "issuer": "Acmegrade",
+        "date": "2025",
+        "logo": "/acmegrade.png"
       }
     ],
     "education": [
