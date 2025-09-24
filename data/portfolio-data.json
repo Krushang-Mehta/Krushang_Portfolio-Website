@@ -101,7 +101,8 @@
     {
     "title": "Full-Stack Developer",
     "company": "SheetIQ – Excel Analytics Platform",
-    "period": "2025",
+    "companyLink": "https://github.com/Krushang-Mehta/SheetIQ---Excel-Analytics-Platform",
+    "period": " August, 2025",
     "description": "Built a full-stack analytics platform that allows users to upload Excel files, analyze data, and generate interactive 2D/3D charts. Integrated authentication, dashboards, and optional AI-powered insights.",
     "achievements": [
       "Implemented Excel file parsing with SheetJS and dynamic data mapping",
@@ -123,32 +124,31 @@
     ]
   },
   {
-    "title": "Full Stack Developer",
-    "company": "Comfort~Trip (Car Rental System)",
-    "period": "2024",
-    "description": "Developed a full-stack car rental web application providing users with easy booking, multiple vehicle options, and integrated online payment solutions. Built with Next.js, Node.js, MongoDB, and Tailwind CSS, the platform enables seamless airport assistance, booking confirmations, and secure transactions.",
+    "title": "Frontend Developer",
+    "company": "ShopSculpt.ai – Personalized E-commerce Web App",
+    "companyLink": "https://github.com/Krushang-Mehta/ShopSculpt.ai",
+    "period": "Jun-July, 2025",
+    "description": "Developed a hackathon project simulating a Walmart-like personalized homepage experience using AI-driven recommendations and persona-based layouts.",
     "achievements": [
-      "Implemented a car booking system with real-time availability and pricing (₹12/km – ₹30/km depending on vehicle)",
-      "Integrated Stripe for secure online payments and NodeMailer for booking confirmation emails",
-      "Added map integration to enhance pickup/drop location selection",
-      "Developed responsive UI using Tailwind CSS, ensuring a smooth booking experience across devices",
-      "Built admin-side features to manage vehicles, bookings, and customer queries"
+      "Implemented onboarding flow with persona-based homepage personalization",
+      "Built product search, categories, and cart management using Zustand",
+      "Integrated mock AI-based recommendation engine for personalized shopping",
+      "Created checkout simulation with order history tracking"
     ],
     "technologies": [
-      "Next.js",
-      "Node.js",
-      "MongoDB",
+      "Next.js (App Router)",
       "Tailwind CSS",
-      "Formik",
-      "Stripe API",
-      "NodeMailer",
-      "Map Integration"
+      "Zustand",
+      "MongoDB",
+      "Node.js",
+      "AI Rule-based Engine"
     ]
   },
   {
     "title": "Front-End Developer",
     "company": "University Management System (UMS)",
-    "period": "2025",
+    "companyLink": "https://github.com/Krushang-Mehta/University-Management-Next.App",
+    "period": "July, 2025",
     "description": "Designed and developed a role-based web platform for students, parents, teachers, and administrators to manage academics, events, attendance, and real-time tracking.",
     "achievements": [
       "Implemented secure role-based authentication with JWT",
@@ -163,8 +163,10 @@
       "Prisma ORM",
       "PostgreSQL",
       "Recharts",
+      "Formik",
+      "Yup",
       "JWT",
-      "Google Maps API"
+      "Maps API"
     ]
   }
   ],
@@ -185,7 +187,7 @@
       {
         "name": "Web Development Bootcamp",
         "issuer": "Acmegrade",
-        "date": "2025",
+        "date": "2024",
         "logo": "/acmegrade.png"
       }
     ],
@@ -210,21 +212,14 @@
       }
     ],
     "skills": [
-      "Next.js",
-      "React",
-      "Node.js",
-      "Express.js",
-      "TypeScript",
-      "JavaScript",
-      "Tailwind CSS",
-      "SCSS",
-      "HTML5/CSS3",
-      "Java",
-      "Figma",
-      "MongoDB",
-      "PostgreSQL",
-      "Prisma",
-      "Git - Github"
+      "MERN-Stack Development",
+      "Frontend Development",
+      "Backend Development",
+      "Web Design",
+      "Responsive Design",
+      "UI/UX Principles",
+      "Version Control (Git-hub)",
+      "Deployment (Vercel, Netlify, Heroku)"
     ]
   },
   "technicalSkills": {
@@ -236,16 +231,19 @@
       "Photoshop",
       "InVision",
       "Principle",
-      "Framer"
+      "Framer motion"
     ],
     "development": [
-      "HTML/CSS",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "TypeScript",
       "JavaScript",
-      "React",
-      "Tailwind",
+      "Tailwind css",
+      "HTML/CSS",
       "SCSS",
-      "Git",
-      "Responsive Design"
+      "Git- Github"
     ],
     "uxMethods": [
       "User Research",
@@ -257,9 +255,9 @@
     ],
     "softSkills": [
       "Team Leadership",
-      "Project Management",
-      "Client Communication",
-      "Mentoring",
+      "Time Management",
+      "Effective Communication",
+      "Problem-Solving",
       "Presentations"
     ]
   }

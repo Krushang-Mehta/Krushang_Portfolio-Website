@@ -55,6 +55,7 @@ export default function Home() {
                         <ExperienceCard
                           title={experience.title}
                           company={experience.company}
+                          companyLink={experience.companyLink} 
                           period={experience.period}
                           description={experience.description}
                           achievements={experience.achievements}
@@ -82,22 +83,23 @@ export default function Home() {
                   </div>
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
-                    <AnimatedSection animation="slide-right" delay={100}>
-                      <div className="space-y-3">
-                        <h4 className="text-sm font-medium text-zinc-400">Design</h4>
-                        <div className="flex flex-wrap gap-2">
-                          {technicalSkills.design.map((skill, index) => (
-                            <SkillTagComponent key={index}>{skill}</SkillTagComponent>
-                          ))}
-                        </div>
-                      </div>
-                    </AnimatedSection>
 
                     <AnimatedSection animation="slide-left" delay={200}>
                       <div className="space-y-3">
                         <h4 className="text-sm font-medium text-zinc-400">Development</h4>
                         <div className="flex flex-wrap gap-2">
                           {technicalSkills.development.map((skill, index) => (
+                            <SkillTagComponent key={index}>{skill}</SkillTagComponent>
+                          ))}
+                        </div>
+                      </div>
+                    </AnimatedSection>
+
+                    <AnimatedSection animation="slide-right" delay={100}>
+                      <div className="space-y-3">
+                        <h4 className="text-sm font-medium text-zinc-400">Design & Animation</h4>
+                        <div className="flex flex-wrap gap-2">
+                          {technicalSkills.design.map((skill, index) => (
                             <SkillTagComponent key={index}>{skill}</SkillTagComponent>
                           ))}
                         </div>

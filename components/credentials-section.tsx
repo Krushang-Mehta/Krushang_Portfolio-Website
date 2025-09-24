@@ -86,7 +86,7 @@ export function CredentialsSection() {
             <div className="space-y-3">
               <h4 className="text-sm font-medium text-zinc-400 flex items-center border-b border-zinc-800 pb-2">
                 <Award className="w-4 h-4 mr-2 text-cyan-400" />
-                Skills & Expertise
+                Expertise
               </h4>
               <div className="flex flex-wrap gap-2">
                 {credentialsInfo.skills.map((skill, index) => (
