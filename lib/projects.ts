@@ -85,6 +85,12 @@ const projects: Project[] = [
         category: "Web App",
         image: "/Real4.png",
       },
+      {
+        slug: "university-management-system",
+        title: "University Management System (UMS)",
+        category: "Web Application",
+        image: "/School1.png"
+      },
     ],
   },
   {
@@ -199,14 +205,80 @@ const projects: Project[] = [
         category: "Web Application",
         image: "/Sheet1.png"
       },
-       {
+      {
         slug: "car-rental-system",
         title: "Car Rental System - Comfort~Trip",
         category: "Web App",
         image: "/cover.png",
       },
     ]
+  },
+
+  {
+    id: 4,
+    slug: "university-management-system",
+    title: "University Management System (UMS)",
+    category: "Web Application",
+    shortDescription:
+      "A full-stack system to streamline academic and administrative processes with role-based access for students, parents, teachers, and administrators.",
+    description: [
+      "The University Management System (UMS) is a comprehensive full-stack web application designed to simplify and digitalize university operations.",
+      "It enables secure, role-based access for students, parents, teachers, and administrators, reducing paperwork and improving efficiency.",
+      "Key modules include student academic records, attendance monitoring, event scheduling, real-time bus tracking, and analytics dashboards."
+    ],
+    features: [
+      "JWT-secured role-based login and access control",
+      "Student dashboards for results, lectures, timetable, and events",
+      "Teacher dashboards with attendance, scheduling, and lecture management",
+      "Parent portal for academic overview and live bus tracking",
+      "Admin control panel with user management and analytics",
+      "Real-time attendance updates and visualization with Recharts",
+      "Seamless and responsive UI built with Tailwind CSS"
+    ],
+    technologies: [
+      "Next.js",
+      "TypeScript",
+      "Prisma ORM",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "Recharts",
+      "JWT/Auth",
+      "LeafLet Maps API"
+    ],
+    coverImage: "/School4.png",
+    thumbnailImage: "/School1.png",
+    gallery: [
+      { url: "/School1.png", caption: "Admin Dashboard with Analytics" },
+      { url: "/School6.png", caption: "Student Timetable & Attendance Page" },
+      { url: "/School5.png", caption: "Teacher Lecture Management" },
+      { url: "/School3.png", caption: "Parent Portal with Bus Tracking" }
+    ],
+    timeline: "8 months (Q1–Q3 2025)",
+    role: "Full Stack Developer",
+    liveUrl: "https://github.com/Krushang-Mehta/University-Management-Next.App",
+    githubUrl: "https://github.com/Krushang-Mehta/University-Management-Next.App",
+    relatedProjects: [
+      {
+        slug: "real-estate-marketplace",
+        title: "Real Estate Marketplace",
+        category: "Web Application",
+        image: "/Real1.png"
+      },
+       {
+        slug: "excel-analytics-platform",
+        title: "Excel Analytics Platform",
+        category: "Web Application",
+        image: "/Sheet1.png"
+      },
+      {
+        slug: "car-rental-system",
+        title: "Car Rental System - Comfort~Trip",
+        category: "Web Application",
+        image: "/cover.png"
+      }
+    ]
   }
+
 ]
 
 export { projects }
