@@ -68,7 +68,7 @@ const projects: Project[] = [
       { url: "/cars.png", caption: "cars Service Options" },
       { url: "/footer-1.png", caption: "UI Components" },
     ],
-    timeline: "3 months (Q2 2025)",
+    timeline: " Dec-Feb (@024-2025)",
     role: "Full Stack Developer",
     liveUrl: "https://thecomforttrip.com/",
     githubUrl: "https://github.com/Krushang-Mehta/ComfortTrip_Web-App",
@@ -137,7 +137,7 @@ const projects: Project[] = [
       { url: "/Sheet5.png", caption: "3D Chart Example" },
       { url: "/Sheet6.png", caption: "Admin Dashboard" }
     ],
-    timeline: "5 weeks (Q1 2025)",
+    timeline: "Aug-Sep (2025)",
     role: "Full Stack Developer",
     liveUrl: "https://github.com/Krushang-Mehta/SheetIQ---Excel-Analytics-Platform",
     githubUrl: "https://github.com/Krushang-Mehta/SheetIQ---Excel-Analytics-Platform",
@@ -194,7 +194,7 @@ const projects: Project[] = [
       { url: "/Real3.png", caption: "Filter & Search Results" },
       { url: "/Real4.png", caption: "User Dashboard" }
     ],
-    timeline: "6 months (Q2-Q3 2025)",
+    timeline: "Jun-July (2025)",
     role: "Full Stack Developer",
     liveUrl: "https://example.com/real-estate-marketplace",
     githubUrl: "https://github.com/example/real-estate-marketplace",
@@ -253,7 +253,7 @@ const projects: Project[] = [
       { url: "/School5.png", caption: "Teacher Lecture Management" },
       { url: "/School3.png", caption: "Parent Portal with Bus Tracking" }
     ],
-    timeline: "8 months (Q1–Q3 2025)",
+    timeline: "August (2025)",
     role: "Full Stack Developer",
     liveUrl: "https://github.com/Krushang-Mehta/University-Management-Next.App",
     githubUrl: "https://github.com/Krushang-Mehta/University-Management-Next.App",
